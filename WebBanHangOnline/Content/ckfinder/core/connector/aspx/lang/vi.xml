@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckfinder.com/license
+
+ Defines the object for the Vietnamese language.
+-->
+<messages>
+	<errorUnknown>Unable to complete the request. (Error %1)</errorUnknown>
+	<errors>
+		<error number="10">Invalid command.</error>
+		<error number="11">Resource type not specified in request.</error>
+		<error number="12">Invalid requested resource type.</error>
+		<error number="102">Invalid file or directory name.</error>
+		<error number="103">The request could not be completed because of permission restrictions.</error>
+		<error number="104">The request could not be completed because of file system permissions limitation.</error>
+		<error number="105">Invalid file extension.</error>
+		<error number="109">Invalid request.</error>
+		<error number="110">An unknown error.</error>
+		<error number="111">It was not possible to complete the request due to resulting file size.</error>
+		<error number="115">File or folder of the same name already exists.</error>
+		<error number="116">Folder not found. Please refresh and try again.</error>
+		<error number="117">File not found. Please refresh and try again.</error>
+		<error number="118">The source and destination paths are the same.</error>
+		<error number="201">File of the same name already exists. The uploaded file has been renamed to "%1".</error>
+		<error number="202">Invalid file.</error>
+		<error number="203">Invalid file. Data is too large.</error>
+		<error number="204">The uploaded file is corrupted.</error>
+		<error number="205">No temporary folder to download files.</error>
+		<error number="206">Cancel upload for security reasons. HTML-like data file.</error>
+		<error number="207">File renamed to "%1".</error>
+		<error number="300">File move failed.</error>
+		<error number="301">File copy failed.</error>
+		<error number="500">The file browser is disabled for security reasons. Please Contact the system administrator and check the CKFinder configuration file.</error>
+		<error number="501">Sample image support is disabled.</error>
+	</errors>
+</messages>
